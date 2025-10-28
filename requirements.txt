@@ -1,0 +1,10 @@
+streamlit
+pandas
+python-dotenv
+openai
+requests
+pymupdf
+pyarrow
+gitpython
+tqdm
+altair
